@@ -1,0 +1,119 @@
+﻿05/06/2024 9:13:22 AM ON INRJNM0ERCD009 Error Occured While Tring To Open COmport While Sahring Gift :The port 'COM4' does not exist.
+05/06/2024 9:31:31 AM ON INRJNM0ERCD009 Error Occured While Executing FuncLib.Setup.UpdateEmployeeData:No value given for one or more required parameters.
+05/06/2024 9:31:41 AM ON INRJNM0ERCD009 Error Occured While Executing FuncLib.Setup.UpdateEmployeeData:No value given for one or more required parameters.
+05/06/2024 12:09:39 PM ON INRJNM0ERCD009 Error Occured While Executing FuncLib.Setup.Populatdatatodatagridafterextractingduplicate : 'Sheet1' is not a valid name. Make sure that it does not include invalid characters or punctuation and that it is not too long.
+05/07/2024 9:50:47 AM ON INRJNM0ERCD009 Error Occured While Executing FuncLib.Setup.AddEmployeesToEmployeeDB:Data type mismatch in criteria expression.
+05/07/2024 10:00:49 AM ON INRJNM0ERCD009 Error Occured While Executing FuncLib.Setup.AddEmployeesToEmployeeDB:Data type mismatch in criteria expression.
+05/07/2024 10:09:25 AM ON INRJNM0ERCD009 Error While Building CardForm : InvalidArgument=Value of '17' is not valid for 'index'.
+Parameter name: index
+05/07/2024 10:09:31 AM ON INRJNM0ERCD009 Error While Building CardForm : InvalidArgument=Value of '17' is not valid for 'index'.
+Parameter name: index
+05/07/2024 10:09:36 AM ON INRJNM0ERCD009 Error While Building CardForm : InvalidArgument=Value of '17' is not valid for 'index'.
+Parameter name: index
+05/07/2024 10:16:20 AM ON INRJNM0ERCD009 Error While Building CardForm : Conversion from string "ABBASAHEB TAMBE" to type 'Boolean' is not valid.
+05/07/2024 11:59:54 AM ON INRJNM0ERCD009 Error Occured While Tring To Open COmport While Sahring Gift :The port 'COM4' does not exist.
+05/07/2024 12:22:03 PM ON INRJNM0ERCD009 Error Occured While Executing FuncLib.Setup.RemoveSelectedEmployessFromDB() :
+05/07/2024 12:28:02 PM ON INRJNM0ERCD009 Error Occured While Executing FuncLib.Setup.RemoveSelectedEmployessFromDB() :
+05/07/2024 1:42:43 PM ON INRJNM0ERCD009 Error Occured While Tring To Open COmport While Sahring Gift :The port 'COM4' does not exist.
+05/07/2024 1:51:54 PM ON INRJNM0ERCD009 Error Occured While Tring To Open COmport While Sahring Gift :The port 'COM4' does not exist.
+05/07/2024 1:57:52 PM ON INRJNM0ERCD009 Error Occured While Tring To Open COmport While Sahring Gift :The port 'COM4' does not exist.
+05/08/2024 9:24:54 AM ON INRJNM0ERCD009 Error While Building CardForm : Index and length must refer to a location within the string.
+Parameter name: length
+05/08/2024 9:44:34 AM ON INRJNM0ERCD009 Error While Building CardForm : Index and length must refer to a location within the string.
+Parameter name: length
+05/08/2024 9:46:38 AM ON INRJNM0ERCD009 Error While Building CardForm : Index and length must refer to a location within the string.
+Parameter name: length
+05/08/2024 9:49:07 AM ON INRJNM0ERCD009 Error While Building CardForm : Index and length must refer to a location within the string.
+Parameter name: length
+05/08/2024 9:56:43 AM ON INRJNM0ERCD009 Error Occured While Tring To Open COmport While Sahring Gift :The port 'COM4' does not exist.
+05/08/2024 11:56:30 AM ON INRJNM0ERCD009 Error Occured While Tring To Open COmport While Sahring Gift :The port 'COM5' does not exist.
+05/08/2024 11:56:35 AM ON INRJNM0ERCD009 Error Occured While Tring To Open COmport While Sahring Gift :The port 'COM5' does not exist.
+09-05-2024 21:17:33 ON DESKTOP-V1RUARQ Error Initializing DataBase : The 'Microsoft.ACE.OLEDB.12.0' provider is not registered on the local machine.
+09-05-2024 21:56:52 ON DESKTOP-V1RUARQ Error Initializing DataBase : The 'Microsoft.ACE.OLEDB.12.0' provider is not registered on the local machine.
+10-05-2024 00:39:28 ON DESKTOP-V1RUARQ Error Occured While Verifying User Credentials :The server could not be contacted.
+10-05-2024 00:39:46 ON DESKTOP-V1RUARQ Error Occured While Verifying User Credentials :The server could not be contacted.
+10-05-2024 00:40:06 ON DESKTOP-V1RUARQ Error Occured While Verifying User Credentials :The server could not be contacted.
+10-05-2024 00:44:27 ON DESKTOP-V1RUARQ Error Occured While Verifying User Credentials :The server could not be contacted.
+05/10/2024 9:15:47 AM ON INRJNM0ERCD009 Error Occured While Executing FuncLib.Events.CompareDateMatcOfFunction :String was not recognized as a valid DateTime.
+05/10/2024 9:15:56 AM ON INRJNM0ERCD009 Error Occured While Executing FuncLib.Events.CompareDateMatcOfFunction :String was not recognized as a valid DateTime.
+05/10/2024 9:16:00 AM ON INRJNM0ERCD009 Error Occured While Executing FuncLib.Events.CompareDateMatcOfFunction :String was not recognized as a valid DateTime.
+05/11/2024 9:04:34 AM ON INRJNM0ERCD009 Error Occured While Executing FuncLib.Events.CompareDateMatcOfFunction :String was not recognized as a valid DateTime.
+05/11/2024 9:05:08 AM ON INRJNM0ERCD009 Error Occured While Executing FuncLib.Events.CompareDateMatcOfFunction :String was not recognized as a valid DateTime.
+05/11/2024 12:19:07 PM ON INRJNM0ERCD009 Error Occured While Executing FuncLib.Events.ImportDataIntoVariableFunction :  Object reference not set to an instance of an object.
+05/11/2024 12:27:18 PM ON INRJNM0ERCD009 Error Occured While Executing FuncLib.Events.ImportDataIntoVariableFunction :  Object reference not set to an instance of an object.
+05/11/2024 1:36:25 PM ON INRJNM0ERCD009 Error Occured While Executing FuncLib.Events.ImportDataIntoVariableFunction :  Object reference not set to an instance of an object.
+05/11/2024 1:43:13 PM ON INRJNM0ERCD009 Error Occured While Executing FuncLib.Events.ImportDataIntoVariableFunction :  Object reference not set to an instance of an object.
+05/11/2024 1:43:13 PM ON INRJNM0ERCD009 Error Occured While Executing FuncLib.Events.ImportDataIntoVariableFunction :  Value of '7' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+05/11/2024 1:43:13 PM ON INRJNM0ERCD009 Error Occured While Executing FuncLib.Events.ImportDataIntoVariableFunction :  Value of '8' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+05/11/2024 1:43:13 PM ON INRJNM0ERCD009 Error Occured While Executing FuncLib.Events.ImportDataIntoVariableFunction :  Value of '9' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+05/11/2024 1:43:13 PM ON INRJNM0ERCD009 Error Occured While Executing FuncLib.Events.ImportDataIntoVariableFunction :  Value of '10' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+05/11/2024 1:44:19 PM ON INRJNM0ERCD009 Error Occured While Executing FuncLib.Events.ImportDataIntoVariableFunction :  Object reference not set to an instance of an object.
+05/11/2024 1:44:20 PM ON INRJNM0ERCD009 Error Occured While Executing FuncLib.Events.ImportDataIntoVariableFunction :  Value of '7' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+05/11/2024 1:44:20 PM ON INRJNM0ERCD009 Error Occured While Executing FuncLib.Events.ImportDataIntoVariableFunction :  Value of '8' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+05/11/2024 1:44:20 PM ON INRJNM0ERCD009 Error Occured While Executing FuncLib.Events.ImportDataIntoVariableFunction :  Value of '9' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+05/11/2024 1:44:20 PM ON INRJNM0ERCD009 Error Occured While Executing FuncLib.Events.ImportDataIntoVariableFunction :  Value of '10' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+05/11/2024 2:16:50 PM ON INRJNM0ERCD009 Error Occured While executing FuncLib.Setup.ClearHistory:Could not find a part of the path 'C:\GIFT APP\GIFT APP\Project Files\Backup\'.
+05/11/2024 2:17:08 PM ON INRJNM0ERCD009 Error Occured While executing FuncLib.Setup.ClearHistory:Could not find a part of the path 'C:\GIFT APP\GIFT APP\Project Files\Backup\'.
+05/11/2024 2:17:43 PM ON INRJNM0ERCD009 Error Occured While executing FuncLib.Setup.ClearHistory:Access to the path 'C:\GIFT APP\GIFT APP\Project Files\Backup' is denied.
+05/11/2024 2:24:05 PM ON INRJNM0ERCD009 Error Occured While Tring To Open COmport While Sahring Gift :The port 'COM5' does not exist.
+13-05-2024 00:35:51 ON DESKTOP-V1RUARQ Error Occured While Tring To Open COmport While Sahring Gift :Object reference not set to an instance of an object.
+13-05-2024 00:36:01 ON DESKTOP-V1RUARQ Error Occured While Tring To Open COmport While Sahring Gift :Object reference not set to an instance of an object.
+13-05-2024 00:48:17 ON DESKTOP-V1RUARQ Error Occured While Tring To Open COmport While Sahring Gift :Object reference not set to an instance of an object.
+05/14/2024 4:03:57 PM ON INRJNM0ERCD009 Error While Building CardForm : Could not use 'C:\GIFT APP\GIFT APP\Project Files\DataBase\Gift_Database.accdb'; file already in use.
+05/14/2024 4:10:30 PM ON INRJNM0ERCD009 Error Occured While Tring To Open COmport While Sahring Gift :The port 'COM5' does not exist.
+05/14/2024 4:15:42 PM ON INRJNM0ERCD009 Error Occured While Tring To Open COmport While Sahring Gift :Access to the port 'COM4' is denied.
+05/14/2024 4:16:03 PM ON INRJNM0ERCD009 Error Occured While Tring To Open COmport While Sahring Gift :Access to the port 'COM4' is denied.
+05/14/2024 4:24:55 PM ON INRJNM0ERCD009 Error Occured While Executing FuncLib.Setup.CreateNewDataBase() :Database already exists. 
+05/14/2024 5:25:50 PM ON INRJNM0ERCD009 Error Occured While Verifying User Credentials :No value given for one or more required parameters.
+05/14/2024 5:26:09 PM ON INRJNM0ERCD009 Error Occured While Verifying User Credentials :No value given for one or more required parameters.
+05/14/2024 5:31:28 PM ON INRJNM0ERCD009 Error Occured While Verifying User Credentials :No value given for one or more required parameters.
+05/14/2024 5:50:38 PM ON INRJNM0ERCD009 Error Initializing DataBase : Could not find file '\\rjnfile01\Shared Folder\Gift_Database\TestDB.accdb'.
+15-05-2024 03:06:34 ON DESKTOP-V1RUARQ Error Occured While Verifying User Credentials :The server could not be contacted.
+15-05-2024 03:06:49 ON DESKTOP-V1RUARQ Error Occured While Verifying User Credentials :The server could not be contacted.
+15-05-2024 03:13:04 ON DESKTOP-V1RUARQ Error While Executng FuncLib.Events.FetchAllDataForConstantFunctionDeletion: No value given for one or more required parameters.
+15-05-2024 03:13:15 ON DESKTOP-V1RUARQ Error While Executng FuncLib.Events.FetchAllDataForConstantFunctionDeletion: No value given for one or more required parameters.
+15-05-2024 03:13:32 ON DESKTOP-V1RUARQ Error Occured While Tring To Open COmport While Sahring Gift :Object reference not set to an instance of an object.
+05/15/2024 5:39:09 PM ON INRJNM0ERCD009 Error Occured While Tring To Open COmport While Sahring Gift :The port 'COM4' does not exist.
+05/15/2024 5:40:39 PM ON INRJNM0ERCD009 Error Occured While Tring To Open COmport While Sahring Gift :The port 'COM4' does not exist.
+05/15/2024 5:42:29 PM ON INRJNM0ERCD009 Error Occured While Tring To Open COmport While Sahring Gift :The port 'COM4' does not exist.
+05/15/2024 5:43:31 PM ON INRJNM0ERCD009 Error Occured While Tring To Open COmport While Sahring Gift :The port 'COM4' does not exist.
+05/15/2024 5:44:52 PM ON INRJNM0ERCD009 Error Occured While Tring To Open COmport While Sahring Gift :The port 'COM4' does not exist.
+05/15/2024 6:55:33 PM ON INRJNM0ERCD009 Error While Building CardForm : Conversion from string "NA" to type 'Boolean' is not valid.
+05/15/2024 9:32:16 PM ON INRJNM0ERCD009 Error Occured While Executing FuncLib.Setup.AddNewEmployeeToUserDatabase :
+05/16/2024 6:05:21 PM ON INRJNM0ERCD009 Error Occured While Saving Backup Copy Of C:\GIFT APP\Master Data for Gift Software.xlsx has been saved toC:\GIFT APP\GIFT APP\Project Files\Backup :The file 'C:\GIFT APP\GIFT APP\Project Files\Backup\Master Data for Gift Software.xlsx' already exists.
+05/16/2024 7:09:40 PM ON INRJNM0ERCD009 Error Occured While Executing FuncLib.Events.VerifyNullDataforevent :Syntax error (missing operator) in query expression 'Emp No'.
+05/16/2024 7:09:58 PM ON INRJNM0ERCD009 Error Occured While Executing FuncLib.Events.VerifyNullDataforevent :Syntax error (missing operator) in query expression 'Emp No'.
+17-05-2024 00:51:44 ON DESKTOP-V1RUARQ Error Occured While Tring To Open COmport While Sahring Gift :Access to the port 'COM1' is denied.
+17-05-2024 01:29:56 ON DESKTOP-V1RUARQ Error Occured While Verifying The Columns:The path is not of a legal form.
+17-05-2024 01:30:06 ON DESKTOP-V1RUARQ Error Occured While Verifying The Columns:The path is not of a legal form.
+17-05-2024 01:40:41 ON DESKTOP-V1RUARQ Error Occured While COnverting Required Columns To String:Value of '4367' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'.
+Parameter name: Value
+05/18/2024 5:53:50 PM ON INRJNM1ERC116 Error Occured While Tring To Open COmport While Sahring Gift :The port 'COM3' does not exist.
+05/18/2024 6:16:40 PM ON INRJNM1ERC116 Error Occured While Tring To Open COmport While Sahring Gift :The port 'COM3' does not exist.
+05/18/2024 6:20:30 PM ON INRJNM1ERC116 Error Occured While Tring To Open COmport While Sahring Gift :The port 'COM3' does not exist.
+05/18/2024 6:40:06 PM ON INRJNM1ERC116 Error Occured While Tring To Open COmport While Sahring Gift :The port 'COM3' does not exist.
+05/18/2024 6:43:37 PM ON INRJNM1ERC116 Error Occured While Tring To Open COmport While Sahring Gift :The port 'COM3' does not exist.
+05/18/2024 6:43:48 PM ON INRJNM1ERC116 Error Occured While Tring To Open COmport While Sahring Gift :The port 'COM3' does not exist.
+05/18/2024 6:52:48 PM ON INRJNM1ERC116 Error Occured While Executing FuncLib.Setup.CreateNewDataBase() :Class not registered 
+05/18/2024 6:52:52 PM ON INRJNM1ERC116 Error Occured While Executing FuncLib.Setup.CreateNewDataBase() :Class not registered 
+05/18/2024 6:54:51 PM ON INRJNM1ERC116 Error Occured While Tring To Open COmport While Sahring Gift :The port 'COM3' does not exist.
+05/18/2024 6:56:59 PM ON INRJNM1ERC116 Error Initializing DataBase : Not a valid password.
+05/18/2024 6:57:54 PM ON INRJNM1ERC116 Error Occured While Tring To Open COmport While Sahring Gift :The port 'COM3' does not exist.
+05/18/2024 7:48:50 PM ON INRJNM1ERC116 Error Ocurred While Executing FuncLib.Setup.AddEmployeesToEmployeeDB :Column 'Employee_ID' does not belong to table .
+05/18/2024 7:50:16 PM ON INRJNM1ERC116 Error Ocurred While Executing FuncLib.Setup.AddEmployeesToEmployeeDB :Column 'Employee_ID' does not belong to table .
+05/18/2024 7:51:34 PM ON INRJNM1ERC116 Error Ocurred While Executing FuncLib.Setup.AddEmployeesToEmployeeDB :Column 'Employee_ID' does not belong to table .
+05/18/2024 7:55:46 PM ON INRJNM1ERC116 Error Ocurred While Executing FuncLib.Setup.AddEmployeesToEmployeeDB :Column 'EMP ID' does not belong to table .
+05/18/2024 8:02:21 PM ON INRJNM1ERC116 Error Ocurred While Executing FuncLib.Setup.AddEmployeesToEmployeeDB :Column 'NT ID' does not belong to table .
+19-05-2024 23:41:00 ON DESKTOP-V1RUARQ Error Occured While Removing The Employee Master Database :Column named EMP ID cannot be found.
+Parameter name: columnName
+19-05-2024 23:42:28 ON DESKTOP-V1RUARQ Error Occured While Removing The Employee Master Database :Column named EMP ID cannot be found.
+Parameter name: columnName
+20-05-2024 01:58:47 ON DESKTOP-V1RUARQ Error Occured While Tring To Open COmport While Sahring Gift :Access to the port 'COM1' is denied.

@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GIFT APP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5D82F1-FEB1-430E-B0F8-E8B2EF572C9C}|GIFT APP\\GIFT APP.vbproj|c:\\gift app\\gift app\\funclib.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0D5D82F1-FEB1-430E-B0F8-E8B2EF572C9C}|GIFT APP\\GIFT APP.vbproj|solutionrelative:gift app\\funclib.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5D82F1-FEB1-430E-B0F8-E8B2EF572C9C}|GIFT APP\\GIFT APP.vbproj|c:\\gift app\\gift app\\add_new_employee.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0D5D82F1-FEB1-430E-B0F8-E8B2EF572C9C}|GIFT APP\\GIFT APP.vbproj|solutionrelative:gift app\\add_new_employee.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5D82F1-FEB1-430E-B0F8-E8B2EF572C9C}|GIFT APP\\GIFT APP.vbproj|c:\\gift app\\gift app\\setup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0D5D82F1-FEB1-430E-B0F8-E8B2EF572C9C}|GIFT APP\\GIFT APP.vbproj|solutionrelative:gift app\\setup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5D82F1-FEB1-430E-B0F8-E8B2EF572C9C}|GIFT APP\\GIFT APP.vbproj|c:\\gift app\\gift app\\add_new_employee.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0D5D82F1-FEB1-430E-B0F8-E8B2EF572C9C}|GIFT APP\\GIFT APP.vbproj|solutionrelative:gift app\\add_new_employee.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5D82F1-FEB1-430E-B0F8-E8B2EF572C9C}|GIFT APP\\GIFT APP.vbproj|c:\\gift app\\gift app\\setup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0D5D82F1-FEB1-430E-B0F8-E8B2EF572C9C}|GIFT APP\\GIFT APP.vbproj|solutionrelative:gift app\\setup.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FuncLib.vb",
+              "DocumentMoniker": "C:\\GIFT APP\\GIFT APP\\FuncLib.vb",
+              "RelativeDocumentMoniker": "GIFT APP\\FuncLib.vb",
+              "ToolTip": "C:\\GIFT APP\\GIFT APP\\FuncLib.vb",
+              "RelativeToolTip": "GIFT APP\\FuncLib.vb",
+              "ViewState": "AQIAAEsIAAAAAAAAAAAcwF8IAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-19T21:11:57.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ADD_NEW_EMPLOYEE.vb",
+              "DocumentMoniker": "C:\\GIFT APP\\GIFT APP\\ADD_NEW_EMPLOYEE.vb",
+              "RelativeDocumentMoniker": "GIFT APP\\ADD_NEW_EMPLOYEE.vb",
+              "ToolTip": "C:\\GIFT APP\\GIFT APP\\ADD_NEW_EMPLOYEE.vb",
+              "RelativeToolTip": "GIFT APP\\ADD_NEW_EMPLOYEE.vb",
+              "ViewState": "AQIAAPUAAAAAAAAAAAAswAoBAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-19T20:04:15.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ADD_NEW_EMPLOYEE.vb [Design]",
+              "DocumentMoniker": "C:\\GIFT APP\\GIFT APP\\ADD_NEW_EMPLOYEE.vb",
+              "RelativeDocumentMoniker": "GIFT APP\\ADD_NEW_EMPLOYEE.vb",
+              "ToolTip": "C:\\GIFT APP\\GIFT APP\\ADD_NEW_EMPLOYEE.vb [Design]",
+              "RelativeToolTip": "GIFT APP\\ADD_NEW_EMPLOYEE.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-19T20:03:48.273Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SETUP.vb",
+              "DocumentMoniker": "C:\\GIFT APP\\GIFT APP\\SETUP.vb",
+              "RelativeDocumentMoniker": "GIFT APP\\SETUP.vb",
+              "ToolTip": "C:\\GIFT APP\\GIFT APP\\SETUP.vb",
+              "RelativeToolTip": "GIFT APP\\SETUP.vb",
+              "ViewState": "AQIAAOQCAAAAAAAAAADwv/8CAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-19T20:01:30.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SETUP.vb [Design]",
+              "DocumentMoniker": "C:\\GIFT APP\\GIFT APP\\SETUP.vb",
+              "RelativeDocumentMoniker": "GIFT APP\\SETUP.vb",
+              "ToolTip": "C:\\GIFT APP\\GIFT APP\\SETUP.vb [Design]",
+              "RelativeToolTip": "GIFT APP\\SETUP.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-19T19:55:06.785Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
