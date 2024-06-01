@@ -1,0 +1,8 @@
+﻿1 -------USERNAME -------ADMIN -------
+2 -------SERIAL NUMBER -------111 -------
+3 -------RESULT -------FAIL -------
+*****END OF DATA****6/15/2022 1:58:05 AM
+1 -------USERNAME -------ADMIN -------
+2 -------SERIAL NUMBER -------111 -------
+3 -------RESULT -------FAIL -------
+*****END OF DATA****6/15/2022 1:58:51 AM

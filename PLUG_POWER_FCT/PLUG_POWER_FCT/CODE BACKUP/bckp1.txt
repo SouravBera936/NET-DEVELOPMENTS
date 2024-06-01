@@ -1,0 +1,50 @@
+ Private Sub TreeView1_AfterSelect(sender As Object, e As TreeViewEventArgs) Handles TreeView1.AfterSelect
+        If TextBox1.Text = "SYSTEM ID" And RadioButton2.Checked = True Then
+            Dim Node As TreeNode() = TreeView1.Nodes.Find("SYSTEM ID", True)
+            If Node.Length > 0 Then
+                Dim Node1 As TreeNode() = TreeView1.Nodes.Find("PROGRAMMING TEST", True)
+                If Node1.Length > 0 Then
+                    If Node1(0).Nodes(0).IsSelected Then
+                        Button2.Enabled = True
+                    ElseIf Node1(0).Nodes(1).IsSelected Then
+                        Button2.Enabled = True
+                    ElseIf Node1(0).Nodes(2).IsSelected Then
+                        Button2.Enabled = True
+                    ElseIf Node1(0).Nodes(3).IsSelected Then
+                        Button2.Enabled = True
+                    ElseIf Node1(0).Nodes(4).IsSelected Then
+                        Button2.Enabled = True
+                    Else
+                        Button2.Enabled = False
+                    End If
+                End If
+            End If
+        ElseIf TextBox1.Text = "BATTERY ID" And RadioButton2.Checked = True Then
+            If TreeView1.Nodes(0).Nodes(1).Nodes(0).IsSelected Then
+                Button2.Enabled = True
+            End If
+        End If
+    End Sub
+
+  Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+        If TextBox1.Text = "SYSTEM ID" And RadioButton2.Checked = True Then
+            Dim Node As TreeNode() = TreeView1.Nodes.Find("SYSTEM ID", True)
+            If Node.Length > 0 Then
+                Dim Node1 As TreeNode() = TreeView1.Nodes.Find("PROGRAMMING TEST", True)
+                If Node1.Length > 0 Then
+                    If Node1(0).Nodes(0).IsSelected Then
+                        SystemID.SystemIDPreManualNode0()
+                    ElseIf Node1(0).Nodes(1).IsSelected Then
+                        SystemID.SystemIDPreManualNode1()
+                    ElseIf Node1(0).Nodes(2).IsSelected Then
+                        SystemID.SystemIDPreManualNode2()
+                    ElseIf Node1(0).Nodes(3).IsSelected Then
+                        SystemID.SystemIDPreManualNode3()
+                    ElseIf Node1(0).Nodes(4).IsSelected Then
+                        SystemID.SystemIDPreManualNode4()
+                    End If
+                End If
+            End If
+
+        End If
+    End Sub

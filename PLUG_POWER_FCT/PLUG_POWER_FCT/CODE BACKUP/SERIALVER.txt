@@ -1,0 +1,183 @@
+Imports System.Data.OleDb
+Public Class SERIALVER
+    Dim productversion = Application.ProductVersion.ToString
+    Dim cn As OleDb.OleDbConnection
+    Private Sub SERIALVER_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        Label3.Text = productversion
+        TextBox4.Clear()
+        TextBox5.Clear()
+        TextBox6.Clear()
+        TextBox7.Clear()
+        TextBox1.Enabled = False
+        TextBox2.Enabled = False
+        TextBox3.Enabled = False
+        TextBox4.Enabled = False
+        TextBox5.Enabled = False
+        TextBox6.Enabled = False
+        TextBox7.Enabled = False
+        Try
+            cn = New OleDbConnection
+            cn.ConnectionString = "Provider=" & CONFIG.TextBox1.Text & ";Data Source=" & CONFIG.TextBox2.Text & "; Persist Security Info=" & CONFIG.TextBox3.Text & ";"
+            cn.Open()
+            Dim SQL As String = "SELECT * FROM SYSTEM_ID WHERE (SERIAL_NUMBER = '" & TextBox2.Text & "' AND TEST_STEP = '" & TextBox1.Text & "')"
+            Dim SQL1 As String = "SELECT * FROM BATTERY_ID WHERE (SERIAL_NUMBER = '" & TextBox2.Text & "' AND TEST_STEP = '" & TextBox1.Text & "')"
+            Dim SQL2 As String = "SELECT * FROM SMC WHERE (SERIAL_NUMBER = '" & TextBox2.Text & "' AND TEST_STEP = '" & TextBox1.Text & "')"
+            Dim SQL3 As String = "SELECT * FROM HPC WHERE (SERIAL_NUMBER = '" & TextBox2.Text & "' AND TEST_STEP = '" & TextBox1.Text & "')"
+            If TextBox3.Text = "SYSTEM ID" And TextBox1.Text = "PRE-COATING TEST" Then
+                Dim oleCommand As OleDbCommand
+                oleCommand = New OleDbCommand(SQL, cn)
+                Dim reader As OleDbDataReader = oleCommand.ExecuteReader
+                If reader.HasRows Then
+                    reader.Read()
+                    TextBox4.Text = reader("TEST_RESULT")
+                    TextBox5.Text = reader("DONE_BY")
+                    TextBox6.Text = reader("DATE_TIME")
+                    TextBox7.Text = reader("TEST_STEP")
+                    reader.Close()
+                Else
+                    TextBox4.Text = "NULL"
+                    TextBox5.Text = "NULL"
+                    TextBox6.Text = "NULL"
+                    TextBox7.Text = "NULL"
+                    reader.Close()
+                End If
+            ElseIf TextBox3.Text = "SYSTEM ID" And TextBox1.Text = "POST-COATING TEST" Then
+                Dim oleCommand1 As OleDbCommand
+                oleCommand1 = New OleDbCommand(SQL, cn)
+                Dim reader As OleDbDataReader = oleCommand1.ExecuteReader
+                If reader.HasRows Then
+                    reader.Read()
+                    TextBox4.Text = reader("TEST_RESULT")
+                    TextBox5.Text = reader("DONE_BY")
+                    TextBox6.Text = reader("DATE_TIME")
+                    TextBox7.Text = reader("TEST_STEP")
+                    reader.Close()
+                Else
+                    TextBox4.Text = "NULL"
+                    TextBox5.Text = "NULL"
+                    TextBox6.Text = "NULL"
+                    TextBox7.Text = "NULL"
+                    reader.Close()
+                End If
+            ElseIf TextBox3.Text = "BATTERY ID" And TextBox1.Text = "PRE-COATING TEST" Then
+                Dim oleCommand2 As OleDbCommand
+                oleCommand2 = New OleDbCommand(SQL1, cn)
+                Dim reader As OleDbDataReader = oleCommand2.ExecuteReader
+                If reader.HasRows Then
+                    reader.Read()
+                    TextBox4.Text = reader("TEST_RESULT")
+                    TextBox5.Text = reader("DONE_BY")
+                    TextBox6.Text = reader("DATE_TIME")
+                    TextBox7.Text = reader("TEST_STEP")
+                    reader.Close()
+                Else
+                    TextBox4.Text = "NULL"
+                    TextBox5.Text = "NULL"
+                    TextBox6.Text = "NULL"
+                    TextBox7.Text = "NULL"
+                    reader.Close()
+                End If
+            ElseIf TextBox3.Text = "BATTERY ID" And TextBox1.Text = "POST-COATING TEST" Then
+                Dim oleCommand3 As OleDbCommand
+                oleCommand3 = New OleDbCommand(SQL1, cn)
+                Dim reader As OleDbDataReader = oleCommand3.ExecuteReader
+                If reader.HasRows Then
+                    reader.Read()
+                    TextBox4.Text = reader("TEST_RESULT")
+                    TextBox5.Text = reader("DONE_BY")
+                    TextBox6.Text = reader("DATE_TIME")
+                    TextBox7.Text = reader("TEST_STEP")
+                    reader.Close()
+                Else
+                    TextBox4.Text = "NULL"
+                    TextBox5.Text = "NULL"
+                    TextBox6.Text = "NULL"
+                    TextBox7.Text = "NULL"
+                    reader.Close()
+                End If
+            ElseIf TextBox3.Text = "SMC" And TextBox1.Text = "PRE-COATING TEST" Then
+                Dim oleCommand4 As OleDbCommand
+                oleCommand4 = New OleDbCommand(SQL2, cn)
+                Dim reader As OleDbDataReader = oleCommand4.ExecuteReader
+                If reader.HasRows Then
+                    reader.Read()
+                    TextBox4.Text = reader("TEST_RESULT")
+                    TextBox5.Text = reader("DONE_BY")
+                    TextBox6.Text = reader("DATE_TIME")
+                    TextBox7.Text = reader("TEST_STEP")
+                    reader.Close()
+                Else
+                    TextBox4.Text = "NULL"
+                    TextBox5.Text = "NULL"
+                    TextBox6.Text = "NULL"
+                    TextBox7.Text = "NULL"
+                    reader.Close()
+                End If
+            ElseIf TextBox3.Text = "SMC" And TextBox1.Text = "POST-COATING TEST" Then
+                Dim oleCommand5 As OleDbCommand
+                oleCommand5 = New OleDbCommand(SQL2, cn)
+                Dim reader As OleDbDataReader = oleCommand5.ExecuteReader
+                If reader.HasRows Then
+                    reader.Read()
+                    TextBox4.Text = reader("TEST_RESULT")
+                    TextBox5.Text = reader("DONE_BY")
+                    TextBox6.Text = reader("DATE_TIME")
+                    TextBox7.Text = reader("TEST_STEP")
+                    reader.Close()
+                Else
+                    TextBox4.Text = "NULL"
+                    TextBox5.Text = "NULL"
+                    TextBox6.Text = "NULL"
+                    TextBox7.Text = "NULL"
+                    reader.Close()
+                End If
+            ElseIf TextBox3.Text = "HPC" And TextBox1.Text = "PRE-COATING TEST" Then
+                Dim oleCommand6 As OleDbCommand
+                oleCommand6 = New OleDbCommand(SQL3, cn)
+                Dim reader As OleDbDataReader = oleCommand6.ExecuteReader
+                If reader.HasRows Then
+                    reader.Read()
+                    TextBox4.Text = reader("TEST_RESULT")
+                    TextBox5.Text = reader("DONE_BY")
+                    TextBox6.Text = reader("DATE_TIME")
+                    TextBox7.Text = reader("TEST_STEP")
+                    reader.Close()
+                Else
+                    TextBox4.Text = "NULL"
+                    TextBox5.Text = "NULL"
+                    TextBox6.Text = "NULL"
+                    TextBox7.Text = "NULL"
+                    reader.Close()
+                End If
+            ElseIf TextBox3.Text = "HPC" And TextBox1.Text = "POST-COATING TEST" Then
+                Dim oleCommand7 As OleDbCommand
+                oleCommand7 = New OleDbCommand(SQL3, cn)
+                Dim reader As OleDbDataReader = oleCommand7.ExecuteReader
+                If reader.HasRows Then
+                    reader.Read()
+                    TextBox4.Text = reader("TEST_RESULT")
+                    TextBox5.Text = reader("DONE_BY")
+                    TextBox6.Text = reader("DATE_TIME")
+                    TextBox7.Text = reader("TEST_STEP")
+                    reader.Close()
+                Else
+                    TextBox4.Text = "NULL"
+                    TextBox5.Text = "NULL"
+                    TextBox6.Text = "NULL"
+                    TextBox7.Text = "NULL"
+                    reader.Close()
+                End If
+            End If
+            System.Threading.Thread.Sleep(500)
+            If TextBox4.Text = "PASS" And TextBox7.Text = STARTUP.ComboBox2.SelectedItem Then
+                STARTUP.CheckBox1.Checked = True
+            End If
+            Me.Close()
+        Catch ex As Exception
+            Dim iret As Object = MsgBox("ERROR VERIFYING SERIAL NUMBER" & ex.Message, vbCritical + vbOKOnly, "VERIFICATION ERROR")
+            If iret = vbOK Then
+                Application.Restart()
+            End If
+        End Try
+    End Sub
+End Class

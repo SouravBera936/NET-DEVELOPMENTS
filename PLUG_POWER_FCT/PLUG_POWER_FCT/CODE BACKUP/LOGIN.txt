@@ -1,0 +1,140 @@
+Imports System.Data.OleDb
+Public Class LOGIN
+    Dim productversion = Application.ProductVersion.ToString
+    Dim cn As OleDb.OleDbConnection
+    Dim oleCommand As OleDbCommand
+    Dim file As System.IO.StreamWriter
+    Private Sub TextBox2_TextChanged(sender As Object, e As EventArgs) Handles TextBox2.TextChanged
+        TextBox2.PasswordChar = "*"
+    End Sub
+
+    Private Sub LOGIN_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        Label3.Text = productversion
+        TextBox1.Clear()
+        TextBox2.Clear()
+    End Sub
+
+    Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
+        Me.Dispose()
+    End Sub
+
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        Dim path As String = CONFIG.TextBox4.Text.ToString()
+        file = My.Computer.FileSystem.OpenTextFileWriter(path, True)
+        Try
+            If TextBox1.Text = "ADMINISTRATOR" And TextBox2.Text = "PPLR@centumBLR2023" Then
+                Dim iret As Object = MsgBox("LOGIN SUCCESS WITH ADMINISRATOR", vbOKOnly + vbInformation, "LOGIN LOGIC")
+                If iret = vbOK Then
+                    file.WriteLine("LOGIN SUCCESS :" + "=" + TextBox1.Text + "_" & DateTime.Now.ToString("yyyy/MM/dd/HH:mm:ss"))
+                    file.Close()
+                    MAIN.LOGINToolStripMenuItem.Enabled = False
+                    MAIN.LOGOUTToolStripMenuItem.Enabled = True
+                    MAIN.EXITToolStripMenuItem.Enabled = True
+                    MAIN.CREATEUSERToolStripMenuItem.Enabled = True
+                    MAIN.REMOVEUSERToolStripMenuItem.Enabled = True
+                    MAIN.CHANGEPASSWORDToolStripMenuItem.Enabled = False
+                    MAIN.FIRSTPASSYIELDToolStripMenuItem.Enabled = True
+                    MAIN.FINALPASSYIELDToolStripMenuItem.Enabled = True
+                    MAIN.ConfrigurationsToolStripMenuItem.Enabled = True
+                    MAIN.ABOUTSOFTWAREToolStripMenuItem.Enabled = True
+                    MAIN.HELPToolStripMenuItem.Enabled = True
+                    MAIN.SETUPToolStripMenuItem.Enabled = True
+                    MAIN.ENABLEMANUALMODEToolStripMenuItem.Enabled = True
+                    MAIN.UPDATEDESIGNATIONToolStripMenuItem.Enabled = True
+                    MAIN.GroupBox1.Visible = True
+                    MAIN.TextBox1.Enabled = False
+                    MAIN.TextBox2.Enabled = False
+                    MAIN.TextBox4.Enabled = False
+                    MAIN.TextBox3.Enabled = False
+                    MAIN.TextBox3.Text = "ADMINISTRATOR"
+                    MAIN.TextBox6.Clear()
+                    MAIN.Label10.Visible = True
+                    MAIN.Label11.Visible = True
+                    MAIN.TextBox6.Enabled = False
+                    MAIN.ProgressBar1.Minimum = 0
+                    MAIN.ProgressBar1.Maximum = 100
+                    MAIN.ProgressBar1.Value = 1
+                    MAIN.Button3.Enabled = True
+                    Me.Dispose()
+                End If
+            Else
+                cn = New OleDbConnection
+                cn.ConnectionString = "Provider=" & CONFIG.TextBox1.Text & ";Data Source=" & CONFIG.TextBox2.Text & "; Persist Security Info=" & CONFIG.TextBox3.Text & ";"
+                cn.Open()
+                Dim SQL As String = "SELECT * FROM USER_1 WHERE (USE_ID = '" & TextBox1.Text & "' AND PASSWORD = '" & TextBox2.Text & "')"
+                oleCommand = New OleDbCommand(SQL, cn)
+                Dim reader As OleDbDataReader = oleCommand.ExecuteReader
+                If reader.HasRows Then
+                    reader.Read()
+                    Dim iret1 As Object = MsgBox("LOGIN SUCCESS WITH" & " " & reader("USER_NAME"), vbInformation + vbOKOnly, "LOGIN-LOGIC")
+                    If iret1 = vbOK Then
+                        file.WriteLine("LOGIN SUCCESS :" + "=" + TextBox1.Text + "_" & DateTime.Now.ToString("yyyy/MM/dd/HH:mm:ss"))
+                        file.Close()
+                        MAIN.LOGINToolStripMenuItem.Enabled = False
+                        MAIN.LOGOUTToolStripMenuItem.Enabled = True
+                        MAIN.EXITToolStripMenuItem.Enabled = True
+                        MAIN.CREATEUSERToolStripMenuItem.Enabled = False
+                        MAIN.REMOVEUSERToolStripMenuItem.Enabled = False
+                        MAIN.CHANGEPASSWORDToolStripMenuItem.Enabled = True
+                        MAIN.FIRSTPASSYIELDToolStripMenuItem.Enabled = True
+                        MAIN.FINALPASSYIELDToolStripMenuItem.Enabled = True
+                        MAIN.ConfrigurationsToolStripMenuItem.Enabled = False
+                        MAIN.ABOUTSOFTWAREToolStripMenuItem.Enabled = True
+                        MAIN.HELPToolStripMenuItem.Enabled = True
+                        MAIN.SETUPToolStripMenuItem.Enabled = False
+                        MAIN.ENABLEMANUALMODEToolStripMenuItem.Enabled = False
+                        MAIN.UPDATEDESIGNATIONToolStripMenuItem.Enabled = False
+                        MAIN.GroupBox1.Visible = True
+                        MAIN.TextBox1.Enabled = False
+                        MAIN.TextBox2.Enabled = False
+                        MAIN.TextBox4.Enabled = False
+                        MAIN.TextBox3.Enabled = False
+                        MAIN.Label10.Visible = True
+                        MAIN.Label11.Visible = True
+                        MAIN.Label11.Visible = True
+                        MAIN.TextBox3.Text = reader("USER_NAME") & "_" & reader("USE_ID")
+                        MAIN.Label12.Text = reader("DESIGNATION")
+                        MAIN.TextBox6.Clear()
+                        MAIN.TextBox6.Enabled = False
+                        MAIN.ProgressBar1.Minimum = 0
+                        MAIN.ProgressBar1.Maximum = 100
+                        MAIN.ProgressBar1.Value = 1
+                        MAIN.Button3.Enabled = True
+                        reader.Close()
+                        Me.Dispose()
+                    End If
+                Else
+                    Dim iret2 As Object = MsgBox("INVALID LOGIN CREDITIONALS", vbExclamation + vbOKOnly, "LOGIN-LOGIC")
+                    If iret2 = vbOK Then
+                        file.WriteLine("LOGIN FAILED :" + "=" + TextBox1.Text + "_" & DateTime.Now.ToString("yyyy/MM/dd/HH:mm:ss"))
+                        file.Close()
+                        TextBox1.Clear()
+                        TextBox2.Clear()
+                        reader.Close()
+                    End If
+                End If
+            End If
+
+        Catch ex As Exception
+            Dim iret3 As Object = MsgBox("ERROR WHILE TRYING TO LOGIN TO SOFTWARE" & " " & ex.Message, vbCritical + vbOKOnly, "LOGIN-ERROR")
+            If iret3 = vbOK Then
+                file.WriteLine("LOGIN ERROR :" + "=" + ex.Message + "_" & DateTime.Now.ToString("yyyy/MM/dd/HH:mm:ss"))
+                file.Close()
+                Application.Restart()
+            End If
+        End Try
+    End Sub
+
+    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+        If TextBox1.Text = "" Then
+            Dim iret As Object = MsgBox("NO USER ID FOUND. PLEASE ENTER A VALID USER ID", vbCritical + vbOKOnly, "PSW-RST")
+            If iret = vbOK Then
+                TextBox1.Clear()
+            End If
+        Else
+            PASSWORD_RST.TextBox1.Text = Me.TextBox1.Text
+            Me.Dispose()
+            PASSWORD_RST.ShowDialog()
+        End If
+    End Sub
+End Class

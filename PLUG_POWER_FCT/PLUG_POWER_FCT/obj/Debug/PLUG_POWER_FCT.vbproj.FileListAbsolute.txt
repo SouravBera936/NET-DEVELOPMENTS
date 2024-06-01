@@ -1,0 +1,290 @@
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\PLUG_POWER_FCT.exe.config
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\PLUG_POWER_FCT.exe
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\PLUG_POWER_FCT.pdb
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\PLUG_POWER_FCT.xml
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.MAIN.resources
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.Resources.resources
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.vbproj.GenerateResource.Cache
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.exe
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.xml
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.pdb
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.vbproj.ResolveComReference.cache
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.CONFIG.resources
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.FAILUREVIEW.resources
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.IMGCOMP.resources
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.LOGIN.resources
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.PASSWORD_RST.resources
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.SERIALVER.resources
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.SETUP.resources
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.STARTUP.resources
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.SYSREG.resources
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.UUT_RESULT.resources
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.MANUAL_COMPARISON.resources
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.SMC_DUT_INFIXTURE.resources
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\Interop.BASICFORMATTEDIOLib.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.FTDI_SELECTOR.resources
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.TRIAL.resources
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.SMC_IMAGECOMP.resources
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.COORDINATE_TEACHER.resources
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\Interop.AutoItX3Lib.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\Interop.MSDAOSP.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\Interop.MSDASC.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\x86\leptonica-1.82.0.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\x86\tesseract50.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\x64\leptonica-1.82.0.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\x64\tesseract50.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.vbproj.CoreCompileInputs.cache
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.vbproj.CopyComplete
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Tesseract.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x64\native\eng.base.traineddata
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x64\native\eng.best.traineddata
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x64\native\eng.fast.traineddata
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x64\native\eng.user-patterns
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x64\native\eng.user-words
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x64\native\IronOcrInterop.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x64\native\liblept-5.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x64\native\libtesseract-5.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x64\native\osd.traineddata
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x64\native\pdf.ttf
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x64\native\pdf.ttx
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x64\native\Tesseract.Native.deployment.json
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x86\native\eng.base.traineddata
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x86\native\eng.best.traineddata
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x86\native\eng.fast.traineddata
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x86\native\eng.user-patterns
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x86\native\eng.user-words
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x86\native\IronOcrInterop.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x86\native\liblept-5.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x86\native\libtesseract-5.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x86\native\osd.traineddata
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x86\native\pdf.ttf
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x86\native\pdf.ttx
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x86\native\Tesseract.Native.deployment.json
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\BitMiracle.LibTiff.NET.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\IronOcr.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\IronSoftware.Abstractions.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\IronSoftware.Drawing.Common.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\IronSoftware.Logger.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\IronSoftware.Shared.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\SixLabors.Fonts.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\SixLabors.ImageSharp.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\SixLabors.ImageSharp.Drawing.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Buffers.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Memory.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Numerics.Vectors.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Security.AccessControl.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Security.Permissions.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Security.Principal.Windows.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Text.Encodings.Web.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Text.Json.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.ValueTuple.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Newtonsoft.Json.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\BitMiracle.LibTiff.NET.xml
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\IronOcr.pdb
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\IronOcr.xml
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\IronSoftware.Abstractions.pdb
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\IronSoftware.Drawing.Common.pdb
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\IronSoftware.Drawing.Common.xml
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\IronSoftware.Logger.pdb
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\IronSoftware.Shared.pdb
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\SixLabors.Fonts.xml
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\SixLabors.ImageSharp.xml
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\SixLabors.ImageSharp.Drawing.xml
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Buffers.xml
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Memory.xml
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Numerics.Vectors.xml
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Security.AccessControl.xml
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Security.Permissions.xml
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Security.Principal.Windows.xml
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Text.Encodings.Web.xml
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Text.Json.xml
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.ValueTuple.xml
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.SMC_TIMETEST.resources
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.vbproj.AssemblyReference.cache
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\EPPlus.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\EPPlus.Interfaces.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\EPPlus.System.Drawing.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.ComponentModel.Annotations.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\EPPlus.xml
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.IMAGE_STR.resources
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x64\native\eng.base.traineddata
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x64\native\eng.best.traineddata
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x64\native\eng.fast.traineddata
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x64\native\eng.user-patterns
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x64\native\eng.user-words
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x64\native\IronOcrInterop.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x64\native\liblept-5.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x64\native\libtesseract-5.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x64\native\osd.traineddata
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x64\native\pdf.ttf
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x64\native\pdf.ttx
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x64\native\Tesseract.Native.deployment.json
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x86\native\eng.base.traineddata
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x86\native\eng.best.traineddata
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x86\native\eng.fast.traineddata
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x86\native\eng.user-patterns
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x86\native\eng.user-words
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x86\native\IronOcrInterop.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x86\native\liblept-5.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x86\native\libtesseract-5.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x86\native\osd.traineddata
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x86\native\pdf.ttf
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x86\native\pdf.ttx
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\runtimes\win-x86\native\Tesseract.Native.deployment.json
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\x86\leptonica-1.82.0.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\x86\tesseract50.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\x64\leptonica-1.82.0.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\x64\tesseract50.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\PLUG_POWER_FCT.exe.config
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\PLUG_POWER_FCT.exe
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\PLUG_POWER_FCT.pdb
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\PLUG_POWER_FCT.xml
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\BitMiracle.LibTiff.NET.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\EPPlus.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\EPPlus.Interfaces.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\EPPlus.System.Drawing.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\IronOcr.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\IronSoftware.Abstractions.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\IronSoftware.Drawing.Common.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\IronSoftware.Logger.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\IronSoftware.Shared.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\SixLabors.Fonts.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\SixLabors.ImageSharp.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\SixLabors.ImageSharp.Drawing.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Buffers.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.ComponentModel.Annotations.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Memory.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Numerics.Vectors.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Security.AccessControl.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Security.Permissions.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Security.Principal.Windows.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Text.Encodings.Web.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Text.Json.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.ValueTuple.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Tesseract.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Newtonsoft.Json.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\BouncyCastle.Crypto.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\BitMiracle.LibTiff.NET.xml
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\EPPlus.xml
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\IronOcr.pdb
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\IronOcr.xml
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\IronSoftware.Abstractions.pdb
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\IronSoftware.Drawing.Common.pdb
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\IronSoftware.Drawing.Common.xml
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\IronSoftware.Logger.pdb
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\IronSoftware.Shared.pdb
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\SixLabors.Fonts.xml
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\SixLabors.ImageSharp.xml
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\SixLabors.ImageSharp.Drawing.xml
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Buffers.xml
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Memory.xml
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Numerics.Vectors.xml
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Security.AccessControl.xml
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Security.Permissions.xml
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Security.Principal.Windows.xml
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Text.Encodings.Web.xml
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Text.Json.xml
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\System.ValueTuple.xml
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.vbproj.AssemblyReference.cache
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\Interop.AutoItX3Lib.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\Interop.BASICFORMATTEDIOLib.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\Interop.MSDAOSP.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\Interop.MSDASC.dll
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.vbproj.ResolveComReference.cache
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.CONFIG.resources
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.COORDINATE_TEACHER.resources
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.FAILUREVIEW.resources
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.FTDI_SELECTOR.resources
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.IMAGE_STR.resources
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.IMGCOMP.resources
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.LOGIN.resources
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.MAIN.resources
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.MANUAL_COMPARISON.resources
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.Resources.resources
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.PASSWORD_RST.resources
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.SERIALVER.resources
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.SETUP.resources
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.SMC_DUT_INFIXTURE.resources
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.SMC_IMAGECOMP.resources
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.SMC_TIMETEST.resources
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.STARTUP.resources
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.SYSREG.resources
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.TRIAL.resources
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.UUT_RESULT.resources
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.vbproj.GenerateResource.cache
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.vbproj.CoreCompileInputs.cache
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.vbproj.CopyComplete
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.exe
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.xml
+E:\NET PROJECTS\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.pdb
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\LiveCharts.dll
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\LiveCharts.pdb
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\LiveCharts.xml
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\PLUG_POWER_FCT.exe.manifest
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\bin\Debug\PLUG_POWER_FCT.application
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.exe.manifest
+C:\PLUG_POWER_FCT\PLUG_POWER_FCT\obj\Debug\PLUG_POWER_FCT.application

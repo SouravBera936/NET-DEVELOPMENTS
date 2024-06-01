@@ -1,0 +1,4 @@
+1. Place the "DVOR" folder in local disk "C"
+2. All the settings can be modified from the confriguration option in the sotware.
+3. find the exe in below mentioned folder:
+C:\DVOR\COLD TEST\WindowsApp1\bin\Debug\WindowsApp1.exe

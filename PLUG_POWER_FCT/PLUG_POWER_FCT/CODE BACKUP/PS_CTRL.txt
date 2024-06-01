@@ -1,0 +1,29 @@
+Imports Ivi.Visa.Interop
+Module PS_CTRL
+    Dim Port As String = CONFIG.TextBox31.Text.ToString
+    Dim SetVoltage As String = CONFIG.TextBox32.Text.ToString
+    Dim SetCurrent As String = CONFIG.TextBox33.Text.ToString
+    Dim iomgr As New Ivi.Visa.Interop.ResourceManager
+    Dim instrany As New Ivi.Visa.Interop.FormattedIO488
+
+    Public Sub PowerSupply_ON()
+        instrany.IO = iomgr.Open(Port)
+        instrany.WriteString(SetVoltage)
+        instrany.WriteString(SetCurrent)
+        instrany.WriteString("OUTP ON")
+    End Sub
+    Public Sub PowerSupply_OFF()
+        instrany.IO = iomgr.Open(Port)
+        instrany.WriteString("OUTP OFF")
+    End Sub
+    Public Sub PowerSupply_RST()
+        instrany.IO = iomgr.Open(Port)
+        instrany.WriteString("*RST")
+        instrany.WriteString("*CLS")
+    End Sub
+    Public Sub PowerSupply_Recycle()
+        PowerSupply_OFF()
+        System.Threading.Thread.Sleep(5000)
+        PowerSupply_ON()
+    End Sub
+End Module

@@ -1,0 +1,38 @@
+USER ID  :ADMINISTRATOR
+PASSWORD :PPLR@centumBLR2023
+  Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        MAIN.TimerFunction("STOP")
+        If MAIN.TextBox1.Text = "SYSTEM ID" And MAIN.RadioButton1.Checked = True Then
+            If MAIN.TextBox6.Text = "PRODUCTION" Then
+                MAIN.ListBox1.Items.Add("Generating Test Report Started")
+                SystemID.GenerateReport(MAIN.TextBox3.Text, MAIN.TextBox2.Text, MAIN.TextBox4.Text, MAIN.Button8.Text, MAIN.TextBox5.Text.ToString, Clipboard.GetImage)
+                MAIN.ListBox1.Items.Add("Generating Test Record Started")
+                SystemID.CreateRecord(CONFIG.TextBox1.Text, CONFIG.TextBox2.Text, CONFIG.TextBox3.Text, MAIN.TextBox4.Text, MAIN.TextBox2.Text, MAIN.TextBox3.Text, MAIN.TextBox6.Text, MAIN.TextBox153.Text, MAIN.Button8.Text, MAIN.Button43.Text, MAIN.TextBox5.Text, MAIN.Label10.Text)
+                SystemID.GenerateLogReport(CONFIG.TextBox21.Text, MAIN.TextBox4.Text)
+                FUNNCTIONLIB.CalculateProgress(5, 5)
+                SystemID.ClearSequence()
+            ElseIf MAIN.TextBox6.Text = "GOLDEN" Then
+                FUNNCTIONLIB.CalculateProgress(5, 5)
+                SystemID.ClearSequence()
+            End If
+        ElseIf MAIN.TextBox1.Text = "BATTERY ID" And MAIN.RadioButton1.Checked = True Then
+            If MAIN.TextBox6.Text = "PRODUCTION" Then
+                MAIN.ListBox1.Items.Add("Generating Test Report Started")
+                BatteryID.GenerateReport(MAIN.TextBox3.Text, MAIN.TextBox2.Text, MAIN.TextBox4.Text, MAIN.Button12.Text, MAIN.TextBox5.Text.ToString, Clipboard.GetImage)
+                MAIN.ListBox1.Items.Add("Generating Test Record Started")
+                BatteryID.CreateRecord(CONFIG.TextBox1.Text, CONFIG.TextBox2.Text, CONFIG.TextBox3.Text, MAIN.TextBox4.Text, MAIN.TextBox2.Text, MAIN.TextBox3.Text, MAIN.TextBox6.Text, MAIN.TextBox153.Text, MAIN.Button12.Text, MAIN.Button43.Text, MAIN.TextBox5.Text, MAIN.Label10.Text)
+                BatteryID.GenerateLogReport(CONFIG.TextBox28.Text, MAIN.TextBox4.Text)
+                FUNNCTIONLIB.CalculateProgress(5, 5)
+                BatteryID.ClearSequence()
+            ElseIf MAIN.TextBox6.Text = "GOLDEN" Then
+                FUNNCTIONLIB.CalculateProgress(5, 5)
+                BatteryID.ClearSequence()
+            End If
+        End If
+        FUNNCTIONLIB.ProgressReset(True)
+        Me.Close()
+    End Sub
+
+SMC.CreateRecord(CONFIG.TextBox1.Text, CONFIG.TextBox2.Text, CONFIG.TextBox3.Text, MAIN.TextBox4.Text, MAIN.TextBox2.Text, MAIN.TextBox3.Text, MAIN.TextBox6.Text, MAIN.TextBox153.Text, MAIN.TextBox27.Text, MAIN.TextBox37.Text, MAIN.TextBox43.Text, MAIN.TextBox40.Text.ToString, MAIN.TextBox54.Text.ToString,
+                MAIN.TextBox58.Text.ToString, MAIN.TextBox62.Text.ToString, MAIN.TextBox66.Text.ToString, MAIN.TextBox69.Text.ToString, MAIN.TextBox74.Text.ToString, MAIN.TextBox162.Text, MAIN.TextBox82.Text, MAIN.TextBox86.Text, MAIN.TextBox90.Text, MAIN.TextBox95.Text, MAIN.TextBox99.Text, MAIN.TextBox103.Text, MAIN.TextBox107.Text,
+MAIN.TextBox111.Text, MAIN.TextBox167.Text, MAIN.TextBox171.Text, MAIN.TextBox115.Text, MAIN.TextBox119.Text, MAIN.TextBox123.Text, MAIN.TextBox126.Text, MAIN.TextBox135.Text, MAIN.TextBox144.Text, MAIN.Button43.Text, DateTime.Now.ToString, MAIN.TextBox5.Text, MAIN.Label10.Text)
